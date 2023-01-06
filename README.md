@@ -11,6 +11,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
 	+ [Turkey's Import and Export: A Brief Analysis with Comparison](#turkeys-import-and-export-a-brief-analysis-with-comparison)
+	+ [House Prices - Advanced Regression Techniques (Kaggle Competition)](#house-prices-advanced-regression-techniques-kaggle-competition)
 - [Study Projects](#study-projects)
   + [Homeworks of R Programming Course](#homeworks-of-r-programming-course)
   + [Testing the Effects of Several Variables on Turkey’s Exchange Rates, 1987-2017](#testing-the-effects-of-several-variables-on-turkeys-exchange-rates-1987-2017)
