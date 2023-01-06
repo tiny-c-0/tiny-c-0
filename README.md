@@ -11,7 +11,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [About](#about)
 - [Portfolio Projects](#portfolio-projects)
 	+ [Turkey's Import and Export: A Brief Analysis with Comparison](#turkeys-import-and-export-a-brief-analysis-with-comparison)
-	+ [House Prices - Advanced Regression Techniques (Kaggle Competition)](#house-prices-advanced-regression-techniques-kaggle-competition)
+	+ [House Prices: Advanced Regression Techniques](#house-prices-advanced-regression-techniques)
 - [Study Projects](#study-projects)
   + [Homeworks of R Programming Course](#homeworks-of-r-programming-course)
   + [Testing the Effects of Several Variables on Turkey’s Exchange Rates, 1987-2017](#testing-the-effects-of-several-variables-on-turkeys-exchange-rates-1987-2017)
@@ -28,11 +28,11 @@ In this section I will list data analytics projects briefly describing the techn
 2 - Balance and volume of trade,       
 3 - Total imports and exports.
 
-### House Prices - Advanced Regression Techniques (Kaggle Competition)
+### House Prices: Advanced Regression Techniques
 **Code:** [`Multiple Linear Regression`](https://github.com/tiny-c-0/data_analysis/blob/main/mlr.R)     
 **Code:** [`Random Forest Regression`](https://github.com/tiny-c-0/data_analysis/blob/main/random%20forest.R)     
 **Code:** [`XGBoost`](https://github.com/tiny-c-0/data_analysis/blob/main/xgboost.R)     
-**Description:** The codes that I wrote for the competition. Results can be seen in Kaggle.
+**Description:** The codes that I wrote for the same named Kaggle competition. Results can be seen in Kaggle.
 
 ## Study Projects
 ### Homeworks of R Programming Course
