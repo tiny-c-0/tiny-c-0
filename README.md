@@ -27,6 +27,12 @@ In this section I will list data analytics projects briefly describing the techn
 2 - Balance and volume of trade,       
 3 - Total imports and exports.
 
+### House Prices - Advanced Regression Techniques (Kaggle Competition)
+**Code:** [`Multiple Linear Regression`](https://github.com/tiny-c-0/data_analysis/blob/main/mlr.R)
+**Code:** [`Random Forest Regression`](https://github.com/tiny-c-0/data_analysis/blob/main/random forest.R)
+**Code:** [`XGBoost`](https://github.com/tiny-c-0/data_analysis/blob/main/xgboost.R)
+**Description:** The codes that I wrote for the competition. Results can be seen in Kaggle.
+
 ## Study Projects
 ### Homeworks of R Programming Course
 **Code:** [`Homework 1: Law of Large Numbers`](https://github.com/tiny-c-0/study/blob/main/hw1.R)     
