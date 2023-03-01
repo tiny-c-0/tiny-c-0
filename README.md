@@ -36,7 +36,7 @@ In this section I will list data analytics projects briefly describing the techn
 **Description:** The codes that I wrote for the same named Kaggle competition. Results can be seen in Kaggle.
 
 ### An Apriori Project: Market Basket Optimization
-**Code:** [`Apriori Project`](https://github.com/tiny-c-0/data_analysis/blob/main/apriori.R)
+**Code:** [`Apriori Project`](https://github.com/tiny-c-0/data_analysis/blob/main/apriori.R)     
 **Description:** Apriori solution of the dataset with the same name on Kaggle.
 
 ## Study Projects
