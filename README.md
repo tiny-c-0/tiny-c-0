@@ -12,6 +12,7 @@ This is a repository to showcase skills, share projects and track my progress in
 - [Portfolio Projects](#portfolio-projects)
 	+ [Turkey's Import and Export: A Brief Analysis with Comparison](#turkeys-import-and-export-a-brief-analysis-with-comparison)
 	+ [House Prices: Advanced Regression Techniques](#house-prices-advanced-regression-techniques)
+	+ [An Apriori Project: Market Basket Optimization](#an-apriori-project-market-basket-optimisation)
 - [Study Projects](#study-projects)
   + [Homeworks of R Programming Course](#homeworks-of-r-programming-course)
   + [Testing the Effects of Several Variables on Turkey’s Exchange Rates, 1987-2017](#testing-the-effects-of-several-variables-on-turkeys-exchange-rates-1987-2017)
@@ -33,6 +34,10 @@ In this section I will list data analytics projects briefly describing the techn
 **Code:** [`Random Forest Regression`](https://github.com/tiny-c-0/data_analysis/blob/main/random%20forest.R)     
 **Code:** [`XGBoost`](https://github.com/tiny-c-0/data_analysis/blob/main/xgboost.R)     
 **Description:** The codes that I wrote for the same named Kaggle competition. Results can be seen in Kaggle.
+
+### An Apriori Project: Market Basket Optimization
+**Code:** [`Apriori Project`](https://github.com/tiny-c-0/data_analysis/blob/main/apriori.R)
+**Description:** Apriori solution of the dataset with the same name on Kaggle.
 
 ## Study Projects
 ### Homeworks of R Programming Course
