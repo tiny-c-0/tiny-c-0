@@ -5,7 +5,7 @@
 Hi, I'm Cumhur! I have a technical background and B.S degree in Economics. After evaluating myself for a while, I found out that I have a great interest in  data and decided to become a data analyst/scientist.  
 <br>
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics. You can reach my resume and other skills from the link below:    
-#### [`My Resume`](https://drive.google.com/file/d/1pACG7YVVPPjJRYWggt0sNx-HKwBKLbAc/view?usp=sharing)       
+#### [`My Resume`](https://drive.google.com/file/d/19Ka2tRHBbjs_6Rx6W2_D0HAFKbbdehMD/view?usp=sharing)      
 
 ## Table of contents
 - [About](#about)
